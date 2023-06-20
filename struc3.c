@@ -1,4 +1,4 @@
-//program to blah blah
+//program
 #include<stdio.h>
 int read (int);
 int write(int);
