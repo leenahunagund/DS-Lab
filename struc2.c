@@ -1,4 +1,4 @@
-//program to perform a lot of stuff
+//program
 #include<stdio.h>
 int read(int a, int b );
 int write(int c);
