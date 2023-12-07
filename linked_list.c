@@ -18,7 +18,7 @@ void main()
    {
     head = newnode; //new node is a pointer of the structure node , it holds the address of the value of the structure i.e int's address
     // so when we give the value of newnode to head , it holds the address value of int , hence creating a link . 
-   }                                      //good girl, it helps to understand when you revisit yk  :))
+   }                                      // it helps to understand when you revisit yk  :))
 
 }
 
